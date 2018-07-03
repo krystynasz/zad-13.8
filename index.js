@@ -28,3 +28,4 @@ server.on('request', function (request, response) {
 });
 
 server.listen(7000);
+console.log('Server running at http://localhost:7000/');
